@@ -83,4 +83,4 @@ The original project implemented Loop subdivision smoothing for SketchUp and ser
 
 The version history above documents the development stages of LoopsubD 2 from the stable Control Cage workflow through the current 2.10.1 release.
 
-For project origin, attribution, and licensing-history information, see [CREDITS.md](CREDITS.md).
+For project origin, attribution, and licensing-history information, see [CREDITS.md](CREDITS_v2.md).
