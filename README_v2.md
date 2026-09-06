@@ -143,11 +143,11 @@ Marcos Netto
 **Development assistance**  
 OpenAI ChatGPT
 
-See [CREDITS.md](CREDITS.md) for additional references and attribution details.
+See [CREDITS.md](CREDITS_v2.md) for additional references and attribution details.
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG_V2.md) for the development history of LoopsubD 2.
+See [CHANGELOG.md](CHANGELOG_v2.md) for the development history of LoopsubD 2.
 
 ## Technical References
 
