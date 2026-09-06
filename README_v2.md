@@ -147,7 +147,7 @@ See [CREDITS.md](CREDITS.md) for additional references and attribution details.
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md) for the development history of LoopsubD 2.
+See [CHANGELOG.md](CHANGELOG_V2.md) for the development history of LoopsubD 2.
 
 ## Technical References
 
